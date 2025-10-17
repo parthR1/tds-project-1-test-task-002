@@ -12,3 +12,7 @@ The `index.html` file contains the main content of the page, generated based on 
 
 ## License
 This project is licensed under the MIT License.
+
+
+## Round 2 Changes
+- Applied revision: "Create a simple hello world page."
